@@ -13,7 +13,7 @@ class Board
     end
 
     def empty?(position)
-        return true if @grid[position[0]][position[1]] == '_'
+        return true if @grid[posioøtion[0]][position[1]] == '_'
         false
     end
 
